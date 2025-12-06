@@ -1,1 +1,1 @@
-Practicing SQL for interviews
+Practicing questions for data science interviews
