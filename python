@@ -1,4 +1,4 @@
-Given an integer num, return its string representation in base 13.
+#1. Given an integer num, return its string representation in base 13.
 
 In case you don’t use base 13 that much (who does, right?), here’s a quick rundown: just like base 10 uses digits from 0 to 9. But also for 10, 11 and 12, we use the letters A, B, and C.
 def convertToBase13(num):
